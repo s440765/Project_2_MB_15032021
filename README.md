@@ -1,7 +1,7 @@
 # Project_2_MB_15032021
 Data Mining Classification Ensemble
 
-This code is using the Brest Cancer Data set form the mlbench library
+This code is using the Brest Cancer Data set from the mlbench library
 
 6 models are used for classification of "Class" for tumors to be Benign or Malignant 
 -Support Vector Machines
